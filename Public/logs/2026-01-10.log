@@ -1,0 +1,5 @@
+[2026-01-10 16:50:16] [info] Solicitud recibida {"method":"GET","uri":"\/test\/testapi\/Public","ip":"172.18.0.1"}
+[2026-01-10 16:50:16] [warning] Ruta no encontrada {"uri":"\/test\/testapi\/Public"}
+[2026-01-10 16:52:46] [info] Solicitud recibida {"method":"GET","uri":"\/SistemaGestionReservas\/Public","ip":"172.18.0.1"}
+[2026-01-10 16:52:46] [warning] Ruta no encontrada {"uri":"\/SistemaGestionReservas\/Public"}
+[2026-01-10 16:56:58] [info] Solicitud recibida {"method":"GET","uri":"\/","ip":"127.0.0.1"}
