@@ -38,18 +38,18 @@ API RESTful completa desarrollada en PHP con MySQL, autenticación Bearer Token,
 
 ## ✨ Características
 
-✅ **API RESTful** siguiendo buenas prácticas
-✅ **Autenticación Bearer Token** robusta
-✅ **Rate Limiting** para prevenir abuso
-✅ **Routing Engine** personalizado con soporte para parámetros dinámicos
-✅ **Arquitectura Modular** (Core, Middleware, Controllers, Services, Repositories)
-✅ **Validación y Sanitización** de datos
-✅ **Logging** completo (info, warning, error)
-✅ **Manejo de Errores** robusto con excepciones
-✅ **Transacciones** de base de datos
-✅ **CORS** configurable
-✅ **Documentación Interactiva** estilo Swagger
-✅ **Tests Unitarios** con PHPUnit
+- ✅ **API RESTful** siguiendo buenas prácticas
+- ✅ **Autenticación Bearer Token** robusta
+- ✅ **Rate Limiting** para prevenir abuso
+- ✅ **Routing Engine** personalizado con soporte para parámetros dinámicos
+- ✅ **Arquitectura Modular** (Core, Middleware, Controllers, Services, Repositories)
+- ✅ **Validación y Sanitización** de datos
+- ✅ **Logging** completo (info, warning, error)
+- ✅ **Manejo de Errores** robusto con excepciones
+- ✅ **Transacciones** de base de datos
+- ✅ **CORS** configurable
+- ✅ **Documentación Interactiva** estilo Swagger
+- ✅ **Tests Unitarios** con PHPUnit
 
 ---
 
